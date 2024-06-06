@@ -1,0 +1,2 @@
+# Kroc NEPR
+print('Ahoj.')
